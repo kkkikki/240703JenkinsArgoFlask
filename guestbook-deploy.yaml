@@ -15,7 +15,7 @@ spec:
         app: guestbook-ui
     spec:
       containers:
-      - image: kaseykim7123/240703-argo-git-flask:22
+      - image: kaseykim7123/240703-argo-git-flask:23
         name: guestbook-ui
         ports:
         - containerPort: 80
